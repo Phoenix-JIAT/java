@@ -24,6 +24,7 @@ public class Calculator {
     public static void main(String[] args) {
 
         new cal();
+        int j = 10;
 
     }
 
