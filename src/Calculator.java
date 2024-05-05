@@ -25,6 +25,7 @@ public class Calculator {
 
         new cal();
         int j = 10;
+        int q = 20;
 
     }
 
